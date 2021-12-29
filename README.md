@@ -4,7 +4,7 @@ A Google search engine clone using NextJS, Tailwind CSS and Google custom search
 
 Main Page|  Search Page
 :-------------------------:|:-------------------------:
-![](./images/demo1.jpg) |  ![](./images/demo2.jpg)
+![](./images/demo1.JPG) |  ![](./images/demo2.JPG)
 
 ## Run in Development Mode
 ```
